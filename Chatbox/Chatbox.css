@@ -1,0 +1,38 @@
+body{margin:0}
+a{text-decoration: none}
+h1{margin:0}
+h2{margin:0}
+p{margin:0}
+iframe{margin:0}
+input{margin:0}
+
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+img.profile{position: absolute; top: 32px; left: 165px}
+
+div.call{display: flex; position: absolute; right: 16px; top: 32px;}
+svg.vid{padding: 2px}
+svg.call{padding: 2px}
+
+p.title{margin-top: 88px; text-align: center; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400;}
+p.date{text-align: center; color: #6D6D6D; font-size: 14px; font-family: 'Poppins', sans-serif; font-weight: 400; margin-top: 8px}
+
+div.box{background-color: #FFF7CE; box-shadow: 0px 4px 4px grey; border-radius: 15px; margin-left: 26px; margin-top: 12px; width: 240px}
+p.name{color: #333333; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; font-weight: bold; margin-left: 14px; padding-top: 8px}
+p.chat{font-size: 14px; font-family: 'Poppins', sans-serif; font-weight: 400; margin-left: 14px; padding-bottom: 8px; padding-right: 14px}
+
+div.box2{background-color: #D5A4CF; box-shadow: 0px 4px 4px grey; border-radius: 15px; margin-left: 148px; margin-top: 20px; width: 240px}
+div.box3{background-color: #FECDF8; box-shadow: 0px 4px 4px grey; border-radius: 15px; margin-left: 26px; margin-top: 20px; width: 240px}
+p.chat2{font-size: 14px; font-family: 'Poppins', sans-serif; font-weight: 400; margin-left: 14px; padding-top: 8px; padding-bottom: 8px; padding-right: 14px}
+
+iframe.yt{padding: 8px 14px 4px 14px; border-radius: 30px}
+
+div.send{margin: auto; display: flex; margin-top: 24px; justify-content: space-around}
+div.type{display: flex; background-color: #E5E5E5; border-radius: 50px; }
+svg.emoji{margin-right: 5px; padding: 2px 0px 2px 0px}
+input.type{border:0; width: 253px; background-color: #E5E5E5; margin-left: 10px}
+
+svg.plus{margin-top: 2px}
+svg.camera{margin-top: 2px}
+svg.mic{margin-top: 2px}
+

@@ -1,0 +1,37 @@
+body{margin:0}
+
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+h1{color : #4D2C5B; font-size: 40px; text-align:center; font-family: 'Poppins', sans-serif; font-weight: 700;  margin: 0; margin-top: 62px}
+div.topic{justify-content: center;margin: auto; width: 303px;text-align:center}
+p.topic{font-family: 'Poppins', sans-serif; font-weight: 300; color:#72777A; margin:0}
+
+div.page{width:90%; justify-content:center; margin:auto; margin-bottom:56px;}
+.page{display:flex;flex-wrap:wrap;}
+div.topic1{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic2{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic3{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic4{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic5{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic6{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic7{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic8{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+div.topic9{background-color:#F7F9FA; border-radius:6px; width:80px; height:80px;}
+
+img.topic{width:70px; height:70px; padding-top: 5px}
+
+p.tulisan{text-align:center; font-family: 'Poppins', sans-serif; font-weight: 300}
+
+div.topic-art{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-culinary{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-design{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 0 0 0; text-align:center;}
+div.topic-music{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-sport{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-coding{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 0 0 0; text-align:center;}
+div.topic-business{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-gaming{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 44px 0 0; text-align:center}
+div.topic-marketing{display:flex; flex-direction: column; height:108px; width: 80px; margin: 44px 0 0 0; text-align:center;}
+
+.next{background-color: #FE8B88; border-radius:5px ; width:300px; height:48px;font-family: 'Poppins', sans-serif; margin-top: 50px; color:white; font-size: 18px; text-align:center; font-weight: 700;margin: auto; display:block ; border: 0; margin-bottom: 35px}
+
+a{text-decoration: none}

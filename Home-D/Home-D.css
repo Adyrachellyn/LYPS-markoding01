@@ -1,0 +1,63 @@
+body{margin:0}
+div.profile{display:flex; position: absolute; right: 16px; top: 32px;}
+img.profilepic{width:30px; height:30px; border-radius:2px; margin:0}
+div.profilepic{padding-left:15px; margin:0}
+
+a{text-decoration: none}
+h1{margin:0}
+p{margin:0}
+div.greeting{margin-top: 36px; margin-left: 14px}
+h1.greeting{color: #404446; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600;}
+p.quote{color: #979C9E; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 400;}
+
+.search{display: block; margin:0; margin: auto; margin-top:15px; height: 50px; background-color: #F7F9FA; border-radius:5px; width:90%; padding-left: 16px; color: #979C9E; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; border:0}
+
+div.ads{justify-content:center; text-align: center}
+img.ads{margin-top:24px; border-radius: 5px;}
+
+h1.mission-list{color: #404446; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600;}
+
+h1.dana-masuk{margin-left: 24px; margin-top: 28px; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600; color: #404446}
+
+.bulan{width: 40%; background-color: #FFE9E9; border-radius: 5px; margin-left: 24px; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; border: none; }
+.tahun{width: 40%; background-color: #FFE9E9; border-radius: 5px; margin-left: 24px; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; border: none; }
+
+button.summary{display: block; width: 90%; border: none; margin: auto; background-color: #4D2C5B; border-radius: 5px; color: white; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 600; margin-top: 12px}
+
+
+h1.dana-keluar{margin-left: 24px; margin-top: 24px; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600; color: #404446}
+
+.bulan{margin-top: 12px; width: 40%; background-color: #FFE9E9; border-radius: 5px; margin-left: 24px; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; border: none; }
+.tahun{margin-top: 12px; width: 40%; background-color: #FFE9E9; border-radius: 5px; margin-left: 24px; font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 400; border: none; }
+
+
+h1.impact-chart{margin-left: 24px; margin-top: 24px; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600; color: #404446}
+div.impact{display: flex; margin: auto; margin: 12px 24px 0px 24px;}
+p.impact{font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300; width: 80%; margin-left: 20px}
+img.impact{width:32px; height:32px; border-radius:2px}
+
+div.impact1{display: flex; margin: auto; margin: 12px 24px 0px 24px;}
+p.impact{font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300; width: 80%; margin-left: 20px}
+img.impact{width:32px; height:32px; border-radius:2px}
+
+div.impact2{display: flex; margin: auto; margin: 12px 24px 100px 24px;}
+p.impact{font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300; width: 80%; margin-left: 20px}
+img.impact{width:32px; height:32px; border-radius:2px}
+
+div.footer{display: flex; justify-content: space-around;}
+
+p{margin:0}
+
+.footer {display: flex; justify-content: space-around; background-color: white; position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999999;}
+
+div.home{display:flex; flex-direction: column; color: #FE8B88; margin: 12px 4% 12px 4%}
+svg.home{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.home{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.donate{display:flex; flex-direction: column; color: #FE8B88; margin: 12px 4% 12px 4%}
+svg.donate{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.donate{color: #979C9E; text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.contact{display:flex; flex-direction: column; color: #FE8B88; margin: 12px 4% 12px 4%;}
+svg.contact{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.contact{color: #979C9E; text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282)); width: 56px}

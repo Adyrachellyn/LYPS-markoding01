@@ -1,0 +1,55 @@
+h1{margin:0}
+h2{margin:0}
+h3{margin:0}
+p{margin:0}
+body{margin:0}
+a{text-decoration: none}
+
+div.profile{display:flex; position: absolute; right: 16px; top: 32px;}
+img.profilepic{width:30px; height:30px; border-radius:2px; margin:0}
+div.profilepic{padding-left:15px; margin:0}
+
+h1.title{color: #FE8B88; font-size: 48px; font-family: 'Poppins', sans-serif; font-weight: 700; text-align: center; margin-top: 78px}
+div.img{text-align:center}
+img.community{width: 259px; height: auto}
+
+div.chat{box-shadow: 4px -4px 4px grey; border-top-left-radius: 20px; border-top-right-radius: 20px; margin-top: -25px;}
+h3.chat{font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600; text-align: right; margin-right: 28px; padding-top: 23px}
+hr{width: 80%;}
+hr.hr{margin-bottom: 112px}
+
+img.group{width: 43px; height: 43px; border-radius: 10px}
+p.group{padding-left: 15px; padding-top: 6px; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 300; color: black}
+
+div.room{width: 80%; margin: auto}
+div.contact1{display:flex; margin-top: 20px}
+div.contact2 {display:flex; margin-top: 12px;}
+div.contact3 {display:flex; margin-top: 12px;}
+div.contact4 {display:flex; margin-top: 12px;}
+div.contact5 {display:flex; margin-top: 12px;}
+
+.footer {
+  display: flex; 
+  justify-content: space-around;
+	background-color: white;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999999;}
+
+div.home{display:flex; flex-direction: column; color: #979C9E; margin: 12px 4% 12px 4%}
+svg.home{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.home{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.class{display:flex; flex-direction: column; color: #979C9E; margin: 12px 4% 12px 4%}
+svg.class{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.class{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.schedule{display:flex; flex-direction: column; color: #979C9E; margin: 12px 4% 12px 4%}
+svg.schedule{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.schedule{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.community{display:flex; flex-direction: column; color: #FE8B88; margin: 12px 4% 12px 4%}
+svg.community{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.community{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}

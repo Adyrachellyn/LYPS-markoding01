@@ -1,0 +1,25 @@
+body{margin:0}
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+h1{margin:0}
+h2{margin:0}
+p{margin:0}
+h3{margin:0}
+
+div.background{background-color : #4D2C5B; width: 100%; color: white; border-bottom-left-radius: 10px; border-bottom-right-radius: 10px }
+
+h1.udemy{padding-top: 30px; text-align: center; font-size: 48px; font-family: 'Poppins', sans-serif; font-weight: 700}
+
+div.title{display: flex; margin-top: 8px; padding-bottom: 30px; justify-content: center}
+svg.video{margin-left: 40px; width: auto; height: auto}
+h2.title{font-size: 20px; margin-left: 16px; font-family: 'Poppins', sans-serif; font-weight: 700}
+
+iframe.video{display: block; width: 90%; height: auto;  margin: auto; margin-top: 44px}
+div.paragraf{border-top-left-radius: 15px; border-top-right-radius: 15px; box-shadow: 0px -4px 8px lightgrey; width: 100%; margin-top: 52px}
+h3.paragraf{font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 700}
+p.paragraf{font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 400}
+div.paragraf2{margin:auto; width:70%; padding-top: 30px}
+
+.finish{background-color: #FE8B88; border-radius:5px ; width: 60%; height:48px;font-family: 'Poppins', sans-serif; margin-top: 50px; color:white; font-size: 24px; text-align:center; font-weight: 700;margin: auto; display:block ; border: 0; margin-bottom: 30px; margin-top: 36px}
+
+a{text-decoration: none}

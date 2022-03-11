@@ -1,0 +1,19 @@
+body{margin:0}
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+h1{margin:0}
+p{margin:0}
+h2{margin:0}
+
+h1.ebook{text-align:center; font-size: 48px; font-family: 'Poppins', sans-serif; font-weight: 700; color: #4D2C5B; margin-top: 16px}
+h2.judul{text-align:center; margin-top:12px; font-style: italic; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 600;}
+
+p.paragraf{margin:auto; width: 90%; font-size: 18px; font-family: 'Poppins', sans-serif; font-weight: 400; margin-top: 12px}
+
+
+div.finish{display:flex; height:72px; margin-top: 14px; background-color: #FE8B88; border-top-left-radius: 10px; border-top-right-radius: 10px;}
+p.page{font-size: 18px; font-family: 'Poppins', sans-serif; font-weight: 400; margin-top: 25px; margin-left: 30px; }
+
+a.finish{font-size: 36px; font-family: 'Poppins', sans-serif; font-weight: 700; margin-top: 10px; margin-left: 50%; color: black }
+
+a{text-decoration: none}

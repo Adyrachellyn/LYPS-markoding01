@@ -1,0 +1,35 @@
+body{margin:0}
+.pertanyaan {
+  margin:auto;
+  margin-top: 191px;
+  text-align: center;
+  margin-bottom: 63px;
+  font-family: 'Poppins', sans-serif; font-weight:700;
+  color: #4D2C5B;
+  width: 90%;
+  
+}
+
+h3 {
+  font-size: 18px; margin: 0
+}
+
+button.yes {background-color: #4D2C5B; border-radius:5px ; width:300px; height:48px; margin: auto; display:block ; border: 0; margin-bottom: 35px; margin-top: 64px}
+
+h3.yes{font-family: 'Poppins', sans-serif; font-weight:700; color:white; font-size: 18px; text-align:center; } 
+
+
+.no {
+  font-size: 18;
+  text-align: center;
+}
+
+h3.no{font-family: 'Poppins', sans-serif; font-weight:700; color:#FE8B88; font-size: 18px; text-align:center; font-style: italic} 
+
+.gambar-bawah {
+  margin-top: 55px;
+
+}
+
+a{text-decoration: none}
+svg.back{ position: absolute; left: 20px; top: 24px;}

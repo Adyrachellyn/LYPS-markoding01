@@ -1,0 +1,34 @@
+div.profile{display:flex; position: absolute; right: 16px; top: 32px;}
+img.profilepic{width:30px; height:30px; border-radius:2px; margin:0}
+div.profilepic{padding-left:15px; margin:0}
+
+a{text-decoration: 0}
+h1{margin:0}
+body{margin:0}
+p{margin:0}
+
+h1.title{color: #4D2C5B; font-size: 48px; font-family: 'Poppins', sans-serif; font-weight: 700; text-align: center; margin-top: 62px}
+
+div.donate{ display: flex; margin: auto; margin: 14px 16px 0px 16px;}
+img.person{width: 50px; height: 50px; border-radius: 10px}
+div.name{margin-left: 12px; width: 64%}
+p.name{font-size: 16px; font-family: 'Poppins', sans-serif; font-weight: 500}
+p.need{font-size: 13px; font-family: 'Poppins', sans-serif; font-weight: 300; font-style: italic}
+button.donate{display: block; border: none; background-color: #4D2C5B; color: white; font-size: 14px; font-family: 'Poppins', sans-serif; font-weight: 700; border-radius: 5px; width: 84px; height: 34px; margin: 4px}
+
+button.other{display: block; border: none; margin: auto; background-color: #4D2C5B; color: white; font-size: 24px; font-family: 'Poppins', sans-serif; font-weight: 700; border-radius: 5px; width: 80%; height: 58px; margin-top: 28px; margin-bottom: 100px}
+
+
+.footer {display: flex; justify-content: space-around; background-color: white; position: fixed; bottom: 0; left: 0; right: 0; z-index: 9999999;}
+
+div.home{display:flex; flex-direction: column; margin: 12px 4% 12px 4%}
+svg.home{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.home{color: #979C9E; text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.donate1{display:flex; flex-direction: column; margin: 12px 4% 12px 4%}
+svg.donate1{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.donate1{color: #FE8B88; text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.contact{display:flex; flex-direction: column; margin: 12px 4% 12px 4%;}
+svg.contact{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.contact{color: #979C9E; text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282)); width: 56px}

@@ -1,0 +1,55 @@
+body{margin:0}
+h1{margin:0}
+h2{margin:0}
+p{margin:0}
+
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+h1.lyps{font-size:36px; font-family: 'Poppins', sans-serif; font-weight: 700; color: #4D2C5B; text-align: center; margin-top: 62px}
+h2.reading{font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 600; text-align: center; margin-top: 10px}
+
+div.reading {display: flex; width: 291px; margin: auto; margin-top: 44px; justify-content: center}
+
+div.tulisan-reading{padding-left: 17px;}
+p.reading{font-size:20px; font-family: 'Poppins', sans-serif; font-weight: 600; margin:0; color:#0300AA; font-style: italic;}
+
+div.check{margin-top: 5px}
+
+div.tulisan-reading2{display: flex; margin-top: 8px}
+p.reading2{font-size:14px; font-family: 'Poppins', sans-serif; font-weight: 400; color:#8B8B8B;}
+div.tulisan-reading4{margin-left: 80px; text-align: right}
+p.reading2-2{font-size:14px; font-family: 'Poppins', sans-serif; font-weight: 400; color:#8B8B8B;}
+p.reading2-3{font-size:14px; font-family: 'Poppins', sans-serif; font-weight: 400; color:#8B8B8B;}
+
+div.open-ebook{background-color:#D8D8D8; border-radius:5px ; width:159px; height:35px; margin:auto;font-family: 'Poppins', sans-serif; margin-top: px;;}  }
+p.open-ebook{font-size:14px; font-family: 'Poppins', sans-serif; font-weight: 400; color:white;}
+
+	a{text-decoration: none}
+
+  .footer {
+  display: flex; 
+  justify-content: space-around;
+	background-color: white;
+	position: fixed;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	z-index: 9999999;}
+
+div.home{display:flex; flex-direction: column; color: #FE8B88; margin: 12px 4% 12px 4%}
+svg.home{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.home{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+
+
+div.class{display:flex; flex-direction: column; color: #000000; margin: 12px 4% 12px 4%}
+svg.class{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.class{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.schedule{display:flex; flex-direction: column; color: #000000; margin: 12px 4% 12px 4%}
+svg.schedule{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.schedule{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}
+
+div.community{display:flex; flex-direction: column; color: #000000; margin: 12px 4% 12px 4%}
+svg.community{margin:auto; width: calc(1.75rem + ((1vw - 4.14px) * 1.8282)); height: auto}
+p.community{text-align: center; font-family: 'Poppins', sans-serif; font-weight: 500; margin-top: 6px; font-size: calc(0.625rem + ((1vw - 4.14px) * 1.8282));}

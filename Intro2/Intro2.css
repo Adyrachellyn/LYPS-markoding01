@@ -1,0 +1,17 @@
+body{margin:0}
+p{margin:0}
+img.gambar-intro2{width: 414px; height:auto;}
+div.gambar-intro2{margin:auto;justify-content:center; text-align: center}
+
+div.tulisan-intro2{width:310px; word-wrap: break-word; text-align: center; margin: auto; justify-content: center;}
+div.tulisan-intro2-2 {width:345px; word-wrap: break-word; text-align: center; margin: auto; justify-content: center;}
+h1{font-size: 36px; color: #4D2C5B; font-family: 'Poppins', sans-serif;text-align: center; height:90px }
+p.tulisan-intro2-2{text-align:center; font-family: 'Poppins', sans-serif;font-size: 20px; font-weight: 300;margin-bottom:50px} 
+
+p.login{text-align:center; font-family: 'Poppins', sans-serif;font-size: 15px; margin-top: 15px; color:black; margin-bottom: 30px }
+b.p{color: #4D2C5B}
+
+a{text-decoration: none}
+button.sign-up{border: 2px solid #FE8B88; background-color: white; border-radius:5px ; width:300px;height:48px; margin-top: 50px; text-align:center; font-weight: 700;margin: auto; display:block;}
+
+p.sign-up{text-decoration: none; font-family: 'Poppins', sans-serif; color:#FE8B88; font-size: 18px; font-weight: 700;}

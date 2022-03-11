@@ -1,0 +1,60 @@
+body{margin:0}
+h1{margin:0}
+h2{margin:0}
+p{margin:0}
+
+svg.back{ position: absolute; left: 20px; top: 24px;}
+
+h1.title{font-size: 36px; font-family: 'Poppins', sans-serif; font-weight: 700; color: #FE8B88; text-align: center; margin-top: 78px; width: 95%}
+p.sub{font-size: 15px; font-family: 'Poppins', sans-serif; font-weight: 400; text-align: center; margin-top: 18px; word-wrap: break-word; width: 80%; margin:auto}
+
+div.group{width: 90%; margin:auto; margin-top: 35px; display: flex; border-radius: 5px;  background-color: #4D2C5B}
+div.nama-group{color:white; margin-top: 28px; margin-left: 25px;}
+img.profile{margin-top: -25px}
+div.profile{height: 173px; width: 94px; background-color: #FE8B88; margin-top: 26px; border-radius: 5px}
+
+p.group{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+h2.group{padding: 3px; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 700}
+p.group2{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+
+div.button{ justify-content: center; width: 200px; height: 35px; border-radius:10px; box-shadow: 1px 1px 1px #08862C; background-color: white; border: 2px #08862C; margin-top : 14px}
+div.wa{padding-top:5px; padding-left:6px}
+div.join{display:flex;}
+p.join{font-size:14px; color: black; font-family: 'Poppins', sans-serif; font-weight: 600; padding-top:7px; padding-left: 6px;}
+
+
+
+div.group2{width: 90%; margin:auto; margin-top: 35px; display: flex; border-radius: 5px;  background-color: #4D2C5B}
+div.nama-group2{color:white; margin-top: 28px; margin-left: 25px;}
+img.profile2{margin-top: -2px}
+div.profile2{height: 173px; width: 94px; background-color: #FE8B88; margin-top: 26px; border-radius: 5px}
+
+p.group2{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+h2.group2{padding: 3px; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 700}
+p.group2-2{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+
+div.button2{ justify-content: center; width: 200px; height: 35px; border-radius:10px; box-shadow: 1px 1px 1px #08862C; background-color: white; border: 2px #08862C; margin-top : 14px}
+div.wa2{padding-top:5px; padding-left:6px}
+div.join2{display:flex;}
+p.join2{font-size:14px; color: black; font-family: 'Poppins', sans-serif; font-weight: 600; padding-top:7px; padding-left: 6px;}
+
+
+
+div.group3{width: 90%; margin:auto; margin-top: 35px; display: flex; border-radius: 5px;  background-color: #4D2C5B}
+div.nama-group3{color:white; margin-top: 28px; margin-left: 25px;}
+img.profile3{margin-top: 3px}
+div.profile3{height: 173px; width: 94px; background-color: #FE8B88; margin-top: 26px; border-radius: 5px}
+
+p.group3{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+h2.group3{padding: 3px; font-size: 20px; font-family: 'Poppins', sans-serif; font-weight: 700}
+p.group2-3{padding: 3px; font-size: 12px; font-family: 'Poppins', sans-serif; font-weight: 300}
+
+div.button3{ justify-content: center; width: 200px; height: 35px; border-radius:10px; box-shadow: 1px 1px 1px #08862C; background-color: white; border: 2px #08862C; margin-top : 14px}
+div.wa3{padding-top:5px; padding-left:6px}
+div.join3{display:flex;}
+p.join3{font-size:14px; color: black; font-family: 'Poppins', sans-serif; font-weight: 600; padding-top:7px; padding-left: 6px;}
+
+a{text-decoration: none}
+button.next{border: 2px solid #FE8B88; background-color: white; border-radius:5px ; width:300px;height:48px; text-align:center; font-weight: 700;margin: auto; display:block; margin-top: 28px; margin-bottom: 46px}
+
+p.next{text-decoration: none; font-family: 'Poppins', sans-serif; color:#FE8B88; font-size: 18px; font-weight: 700;}

@@ -1,0 +1,14 @@
+body{margin:0}
+h1{font-size: 36px; font-family: 'Poppins', sans-serif; font-weight: 700; color: #FE8B88; width: 80%; margin: auto; text-align: center; margin-top: 227px}
+
+.card-otp{display:flex; padding:26px; justify-content: center}
+.card-otp1{width: 62px; height: 61px; background-color: #E3E5E5 ; border-radius:10px;}
+.card-otp2{width: 62px; height: 61px; background-color: #E3E5E5 ; border-radius:10px; margin-left:26px}
+.card-otp3{width: 62px; height: 61px; background-color: #E3E5E5 ; border-radius:10px; margin-left:26px}
+.card-otp4{width: 62px; height: 61px; background-color: #E3E5E5 ; border-radius:10px; margin-left:26px}
+
+.next{background-color: #4D2C5B; border-radius:5px ; width:300px; height:48px;font-family: 'Poppins', sans-serif; margin-top: 50px; color:white; font-size: 18px; text-align:center; font-weight: 700;margin: auto; display:block ; border: 0; margin-bottom: 35px}
+
+a{text-decoration: none}
+
+svg.back{ position: absolute; left: 20px; top: 24px;}

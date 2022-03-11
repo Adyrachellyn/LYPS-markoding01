@@ -1,0 +1,15 @@
+body{margin:0}
+p{margin:0}
+img.gambar-intro1{width: 414px; height:auto;}
+div.gambar-intro1{margin:auto;justify-content:center; text-align: center}
+
+div.tulisan-intro1{width:320px; word-wrap: break-word; text-align: center; margin: auto; justify-content: center;}
+div.tulisan-intro1-2 {width:345px; word-wrap: break-word; text-align: center; margin: auto; justify-content: center;}
+h1{font-size: 36px; color: #4D2C5B; font-family: 'Poppins', sans-serif;text-align: center}
+p{text-align:center; font-family: 'Poppins', sans-serif; font-size: 20px} 
+
+
+a{text-decoration: none}
+button.sign-up{border: 2px solid #FE8B88; background-color: white; border-radius:5px ; width:300px;height:48px ; text-align:center; font-weight: 700;margin: auto; display:block; margin-bottom: 60px; margin-top: 50px}
+
+p.sign-up{text-decoration: none; font-family: 'Poppins', sans-serif; color:#FE8B88; font-size: 18px; font-weight: 700; }
